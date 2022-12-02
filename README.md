@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian-ED
 - 👀 I’m interested in Array Programming
-- 🌱 I’m currently learning rust & BQN
+- 🌱 I’m currently learning rust & BQN & K
 - 💞️ I’m looking to collaborate on my discord bot
 - 📫 How to reach me on discord: "Brian E#0926"
 
