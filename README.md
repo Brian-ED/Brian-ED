@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian-ED
 - 👀 I’m interested in Array Programming
-- 🌱 I’m currently learning Singeli & Zig & BQN & K
+- 🌱 I’m currently learning Singeli & Zig & BQN
 - 💞️ I’m looking to collaborate on my discord bot & rayed-bqn 
 - 📫 How to reach me on discord: "Brian E#0926"
 
